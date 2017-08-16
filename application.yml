@@ -1,0 +1,5 @@
+mlrLegacyDbHost: localhost
+mlrLegacyDbPort: 5435
+mlrLegacyUsername: mlr_legacy_data
+mlrLegacyPasswd: <changeMe>
+mlrLegacyServicePwd: <changeMe>
