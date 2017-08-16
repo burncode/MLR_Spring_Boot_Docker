@@ -1,0 +1,8 @@
+version: '3'
+services:
+  mlr_legacy_service:
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    container_name: mlr_legacy_service
