@@ -1,5 +1,0 @@
-mlrLegacyDbHost: ${MLR_LEGACY_DB_HOST}
-mlrLegacyDbPort: ${MLR_LEGACY_DB_PORT}
-mlrLegacyUsername: ${MLR_LEGACY_USERNAME}
-mlrLegacyPasswd: ${MLR_LEGACY_PASSWD}
-mlrLegacyServicePwd: ${MLR_LEGACY_SERVICE_PWD}
